@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/marcobasurco/belt-exam-MEAN/issues"
   },
-  "homepage": "https://github.com/marcobasurco/belt-exam-MEAN#readme"
+  "homepage": "https://github.com/marcobasurco/belt-exam-MEAN#readme",
+  "dependencies": {
+    "connect-mongo": "^2.0.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8"
+  }
 }
